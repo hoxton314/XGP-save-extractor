@@ -82,6 +82,14 @@
             "package": "SEGAofAmericaInc.Yakuza0PC_s751p9cej88mt",
             "handler": "1c1f"
         },
+        {
+            "name": "The Alters",
+            "package": "4063811bitstudios.TheAlters_gwy9gn5q9j1y6",
+            "handler": "1c1f",
+            "handler_args": {
+            "suffix": ".sav"
+            }
+        },
         // 1cnf
         // 1 container, n files
         // One container contains all save files.
